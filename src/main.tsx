@@ -8,7 +8,7 @@ import {
 } from "react-router-dom";
 
 import App from "./App";
-import CreateUser from "./pages/CreateUSer";
+import CreateUser from "./pages/CreateUser";
 import UsersList from "./pages/UsersList";
 
 ReactDOM.createRoot(
